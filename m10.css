@@ -1,0 +1,14 @@
+p {
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+}
+
+div {
+    color: black;
+    background-color: green;
+}
+
+span {
+    color: blueviolet;
+    background-color: blue;
+}

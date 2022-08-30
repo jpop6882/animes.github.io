@@ -1,0 +1,67 @@
+body {
+    background-image: linear-gradient(to right, rgb(0, 0, 255), rgb(255, 0, 0));
+
+}
+
+h1 {
+    text-align: center;
+    transform: translatex(100px);
+    transform: translateY(10px);
+
+}
+
+div {
+    text-align: center;
+
+
+
+}
+
+p {
+    opacity: 0.5;
+}
+
+.tap {
+    transform: translatex(50px);
+    display: flex;
+    justify-content: center;
+    height: 295px;
+    width: 1455px;
+
+    align-items: center;
+}
+
+#paraga {
+    font-family: 'Rubik Burned', cursive;
+}
+
+#barra {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.pesquisa {
+    border: solid 2px black;
+    width: 800px;
+    height: 40px;
+}
+
+.usuario {
+    border-radius: 200px;
+    background-color: aqua;
+    width: 50px;
+    height: 50px;
+}
+
+.porto {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
+
+.teste {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

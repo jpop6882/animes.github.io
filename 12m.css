@@ -1,0 +1,76 @@
+div p {
+    border: solid chartreuse 1px;
+    text-align: justify;
+
+}
+
+
+
+h1::first-letter {
+
+    color: rgb(187, 255, 0);
+}
+
+a {
+    color: rgb(0, 255, 76);
+}
+
+span {
+    color: yellow;
+}
+
+h2,
+    {
+    border: solid chartreuse 1px;
+    color: rgb(255, 255, 255);
+}
+
+p::first-letter {
+    color: rgb(228, 248, 6);
+}
+
+b {
+    border: solid chartreuse 1px;
+    color: aliceblue;
+}
+
+.nar {
+    background-image: linear-gradient(to right, rgb(192, 123, 5), rgb(5, 5, 5));
+    ;
+}
+
+.h1_nar {
+    color: sandybrown;
+}
+
+.one {
+    background-image: linear-gradient(to right, rgb(228, 2, 2), rgb(189, 163, 33), rgb(38, 0, 255));
+}
+
+div {
+    display: inline-block;
+}
+
+.ble {
+    background-image: linear-gradient(to right, rgb(27, 2, 255), rgb(173, 173, 173), rgb(255, 0, 0), rgb(8, 0, 255));
+}
+
+.ble_p {
+    color: #000;
+}
+
+.slime {
+    background-image: linear-gradient(to right, rgb(0, 202, 253), rgb(0, 123, 190), rgba(49, 0, 211, 0.841), rgb(0, 106, 255));
+}
+
+.slime_p {
+    color: #000;
+}
+
+.toky {
+    background-image: linear-gradient(to left, rgb(0, 0, 0), rgb(255, 0, 0), rgb(174, 174, 174), rgb(96, 96, 96));
+}
+
+.titulo {
+    text-align: center
+}
